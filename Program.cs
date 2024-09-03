@@ -7,8 +7,8 @@ public class Program
 	public static void Main()
 	{
 		Arithmetic arithmetic = new Arithmetic();
-		//arithmetic.Addition();
-		//arithmetic.OddEvenNumber();
+		arithmetic.Addition(); 
+		arithmetic.OddEvenNumber();
 		arithmetic.Reverse();
 	}
 }
